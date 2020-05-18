@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const LGBot = new Discord.Client();
+const LGBot = new Discord.Client(); 
 
 // UTC + x
 const UTC_LOCAL_TIMESIFT = 1;
